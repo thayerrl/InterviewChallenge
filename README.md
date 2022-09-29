@@ -1,6 +1,5 @@
 # InterviewChallenge
-This is a repository of my 5 methods to reverse a string
 
-Each method is commented out, and also has a read me to give a short overview of what the file does. 
+This branch has the added Rev_String2.py file.
 
-The file in this branch is the most simple way to reverse a string
+This method uses itteration to reverse the string inside of a class. 
